@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+p {
+  font-weight: 500;
+}
+button {
+  border-radius: 1px;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  background-color: white;
+  height: 30px;
+  border-radius: 5px;
+}
