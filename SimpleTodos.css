@@ -1,0 +1,20 @@
+.container {
+  height: 100vh;
+  background-color: #ffc2a0;
+  padding: 30px;
+}
+.card-con {
+  background-color: white;
+  border-radius: 8px;
+
+  padding: 20px;
+}
+h1 {
+  color: #ff8542;
+  text-align: center;
+}
+.todo-card {
+  list-style: none;
+  padding-left: 25px;
+  padding-right: 25px;
+}
